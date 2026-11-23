@@ -92,7 +92,7 @@ Imóvel : Apartamento - 2 quartos, com vaga de garagem, sem crianças
 Projeção de 12 meses salva em: saida\projecao_maria-souza_20261123_152754.csv
 ```
 
-## Arquivo CSV gerado
+## Arquivo csv
 
 O arquivo usa o padrão brasileiro (separador `;` e vírgula decimal) e codificação UTF-8 com BOM,
 então abre direto no Excel com os acentos corretos. Exemplo completo em
@@ -186,7 +186,3 @@ O enunciado deixa alguns pontos em aberto. As decisões tomadas foram:
 4. **Parcelas da taxa** são cobradas nos primeiros meses do contrato (mês 1 até o mês *n*). Quando a divisão não é exata (3x), a última parcela absorve a diferença de centavos: R$ 666,67 + R$ 666,67 + R$ 666,66 = R$ 2.000,00.
 5. A projeção considera que o aluguel não sofre reajuste durante o primeiro ano.
 
-## Entregáveis da disciplina
-
-- Parte teórica (PDF): análise do problema, entradas/processamento/saídas, fluxograma e estrutura de classes.
-- Vídeo pitch: *adicione aqui o link do YouTube*.
