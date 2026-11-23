@@ -5,7 +5,7 @@ O sistema recebe as características da locação, valida as respostas, aplica a
 da imobiliária, mostra como o valor mensal foi formado, apresenta a taxa contratual separada do
 aluguel e gera um arquivo **CSV com a projeção dos 12 primeiros meses**.
 
-Trabalho da disciplina *Algorithmic Thinking & Introduction to Object-Oriented Programming* (UniFECAF).
+Trabalho da disciplina *Algorithmic Thinking & Introduction to Object-Oriented Programming*
 Autoria: **Livia Nunez**.
 
 ---
@@ -39,7 +39,7 @@ Autoria: **Livia Nunez**.
 
 1. Baixe o projeto (botão **Code → Download ZIP** no GitHub) ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/RentSmart.git
+   git clone https://github.com/livi4i/RentSmart.git
    cd RentSmart
    ```
 2. Execute o programa na pasta do projeto:
